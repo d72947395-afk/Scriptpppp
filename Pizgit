@@ -2781,11 +2781,3 @@ LocalPlayer.CharacterAdded:Connect(function()
 end)
 
 print("[ALESSIUM v7.0] MEGA EDITION загружен! t.me/Alessium1337")
-                            Camera.CFrame = savedCFrame
-                        end
-                    end
-                end)
-            end
-        end
-    end)
-end
